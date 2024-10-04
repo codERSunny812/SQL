@@ -40,4 +40,6 @@ Before you start using the solutions, make sure you have an understanding of the
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/LeetCode-SQL-Solutions.git
+   git clone https://github.com/codERSunny812/SQL.git
+   ```
+   
