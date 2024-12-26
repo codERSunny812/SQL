@@ -1,6 +1,6 @@
 # 🧑‍💻 LeetCode SQL Solutions
 
-Welcome to my **LeetCode SQL Solutions Repository**! 🚀 This repository contains my solutions for the **Top 50 SQL Questions** on LeetCode. Each solution is optimized and follows best SQL practices. By solving these problems, I’ve earned the **LeetCode SQL Badge**! 🏅
+Welcome to my **LeetCode SQL Solutions Repository** ! 🚀 This repository contains my solutions for the **Top 50 SQL Questions** on LeetCode. Each solution is optimized and follows best SQL practices. By solving these problems, I’ve earned the **LeetCode SQL Badge**! 🏅
 
 ## 💡 About the Repository
 
